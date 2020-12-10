@@ -27,5 +27,3 @@ num1 num2 operator
 ```
 number
 ```
-
-#### نکته :

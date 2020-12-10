@@ -4,9 +4,10 @@ using namespace std;
 int main()
 {
     int num1, num2;
-    char operator;
-    cin >> num1 >> num2 >> operator;
-    switch(operator){
+    char op;
+    cin >> num1 >> num2;
+    cin >> op;
+    switch(op){
         case '+' :
             cout << num1 + num2;
             break;
