@@ -1,0 +1,5 @@
+equilateral triangle
+isosceles triangle
+right triangle
+scalene triangle
+not triangle
